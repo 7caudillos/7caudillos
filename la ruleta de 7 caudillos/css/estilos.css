@@ -1,0 +1,42 @@
+﻿body {
+    background:url(../img/118122343_432998277602116_2193527561763138444_n.jpg);
+    background-repeat:repeat-y repeat-x;
+}
+#button{
+    width:700px;
+    height:500px;
+    margin:auto;
+    display:block;
+    float:initial;
+    position:absolute;
+    top:500px;
+    bottom:0;
+    right:0;
+    left:100px;
+
+}
+#logo {
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 10px;
+    bottom: 500px;
+    right: 0px;
+    left: -100px;
+}
+#canvas{
+    width:500px;
+    height:500px;
+    margin:50px;
+    display:block;
+    float:right;
+}
+#zapata {
+    width: 500px;
+    height: 500px;
+    margin: 50;
+    display: block;
+    float: left;
+}

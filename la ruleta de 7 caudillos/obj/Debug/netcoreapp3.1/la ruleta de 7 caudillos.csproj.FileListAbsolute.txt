@@ -1,0 +1,20 @@
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\la ruleta de 7 caudillos.exe
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\la ruleta de 7 caudillos.deps.json
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\la ruleta de 7 caudillos.runtimeconfig.json
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\la ruleta de 7 caudillos.runtimeconfig.dev.json
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\la ruleta de 7 caudillos.dll
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\bin\Debug\netcoreapp3.1\la ruleta de 7 caudillos.pdb
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.csprojAssemblyReference.cache
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.AssemblyInfoInputs.cache
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.AssemblyInfo.cs
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.csproj.CoreCompileInputs.cache
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.RazorTargetAssemblyInfo.cache
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\staticwebassets\la ruleta de 7 caudillos.StaticWebAssets.Manifest.cache
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\staticwebassets\la ruleta de 7 caudillos.StaticWebAssets.xml
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.dll
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.pdb
+C:\Users\Josè\Desktop\PAGINA DE SIETE CAUDILLOS\pagina htlm visual\ruleta\la ruleta de 7 caudillos\la ruleta de 7 caudillos\obj\Debug\netcoreapp3.1\la ruleta de 7 caudillos.genruntimeconfig.cache
